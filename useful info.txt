@@ -1,0 +1,6 @@
+Colors:
+Gray - #444
+Orange - #c27800
+
+Font:?
+'Special Elite', serif
